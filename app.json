@@ -8,9 +8,9 @@
     "telegram-DaisyX",
     "fuck-TG"
   ],
-  "repository": "https://github.com/TeamDaisyX/DaisyX",
+  "repository": "https://github.com/tobio-shoyo/HINATA-SHOYO-BOTT",
   "website": "daisyproject.studio",
-  "success_url": "t.me/DaisyXUpdates",
+  "success_url": "t.me/HINATA_ROBOT_SUPPORT",
   "buildpacks": [
    {
      "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
