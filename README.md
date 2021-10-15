@@ -1,8 +1,5 @@
 
-<h1 align="center"><b>❤️ DaisyX 2.0  ❤️</b></h1>
-
-## Unmaintained. The new repo of @DaisyXbot is private. 
-(It is no longer based on this source code. The completely rewritten bot available now on telegram)
+<h1 align="center"><b>❤️ Hinata Shoyo  ❤️</b></h1>
 
 <h4 align="center">A Powerful, Smart And Simple Group Manager <br> ... Written with AioGram , Pyrogram and Telethon...</h4>
 <p align='center'>
@@ -21,7 +18,7 @@
 
 
 
-<p align="center"><a href="https://t.me/HINATA_ROBOT_SUPPORT"><img src="https://telegra.ph/file/23448c98735bd81df47e7.jpg" width="400"></a></p>
+<p align="center"><a href="https://t.me/HINATA_ROBOT_SUPPORT"><img src="https://telegra.ph/file/43a5120beb00e8ffa5150.jpg" width="400"></a></p>
 <p align="center">
     <a href="https://app.codacy.com/manual/teamdaisyx/daisyx/dashboard"> <img src="https://img.shields.io/codacy/grade/4d58f2a402b54aed8a7d95f7add45a81?color=brightgreen&logo=codacy&logoColor=green&style=for-the-badge" alt="Codacy" /></a>
     <a href="https://github.com/teamdaisyx/daisyx"> <img src="https://img.shields.io/github/repo-size/teamdaisyx/daisyx?color=orange&logo=github&logoColor=green&style=for-the-badge" /></a>
@@ -34,10 +31,10 @@
 > ⭐️ Thanks to everyone who starred Daisy, That is the greatest pleasure we have !
 
 ### https://daisyproject.studio
-## Avaiilable a latest version as  [@DaisyXBot](https://t.me/daisyxbot) on Telegram [CLOSED SOURCE]
+## Avaiilable a latest version as  [@Shoyo](https://t.me/INTERVIER_ROBOT) on Telegram [CLOSED SOURCE]
 
 # 🧙‍♀️ Deploy Guide
-Complete guide on deploying @DaisyXBot's clone on Heroku.
+Complete guide on deploying @Hinata Shoyo's clone on Heroku.
 
 [![Tutorial](https://yt-embed.herokuapp.com/embed?v=yar61k_hEHQ)](https://www.youtube.com/watch?v=yar61k_hEHQ)
 
@@ -45,16 +42,16 @@ Complete guide on deploying @DaisyXBot's clone on Heroku.
 
 
 # 🏃‍♂️ Easy Deploy 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TeamDaisyX/DaisyX.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/tobio-shoyo/HINATA-SHOYO-BOTT.git)
 
 [Generate String Session](https://replit.com/@SpEcHiDe/GenerateStringSession)  << Select telethon
 
 <a href="https://www.youtube.com/watch?v=yar61k_hEHQ"><img src="https://img.shields.io/badge/How%20To-Deploy-red.svg?logo=Youtube"></a>
 
 # ❤️ Support
-<a href="https://t.me/DaisySupport_Official"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
+<a href="https://t.me/HINATA_ROBOT_SUPPORT"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
 
-<a href="https://t.me/DaisyXupdates"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
+<a href="https://t.me/CROWS_CLIPPED"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
 
 ### Self-hosting (For Devs) ⚔
 ```sh
